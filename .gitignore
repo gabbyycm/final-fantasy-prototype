@@ -1,0 +1,23 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+.vs/
+.idea/
+.vscode/
+
+# Unity generated
+*.unitypackage
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# OS noise
+.DS_Store
+Thumbs.db
